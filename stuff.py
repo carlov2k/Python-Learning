@@ -1,4 +1,6 @@
 #Creates my list
+
+#person_info = list() this is the same as the line below
 person_info = []
 
 file = open('info.txt', 'r')
